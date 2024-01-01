@@ -1,4 +1,4 @@
-# When using puppet to make changes to the default ssh config file
+# what you have to do is When using puppet to make changes to the default ssh config file
 # as so that one can connect to a server without typing a password.
 
 include stdlib
